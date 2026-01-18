@@ -73,3 +73,10 @@ This repository contains Python implementations of fundamental computer graphics
 * Reduces computational complexity compared to direct methods.
 
 * Commonly used in raster graphics and display systems.
+
+
+**Requirements**
+-------------------------------
+
+* Python 3.x
+* matplotlib
