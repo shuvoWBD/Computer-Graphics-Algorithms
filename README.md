@@ -60,3 +60,16 @@ This repository contains Python implementations of fundamental computer graphics
 * Simple and easy to implement for basic line drawing.
 
 * Less efficient than Bresenham’s algorithm due to floating-point operations.
+
+
+**Midpoint Circle Drawing Algorithm**
+
+* Draws a circle by selecting pixels based on a midpoint decision parameter.
+
+* Uses circle symmetry to generate points for all octants.
+
+* Relies only on integer calculations for better efficiency.
+
+* Reduces computational complexity compared to direct methods.
+
+* Commonly used in raster graphics and display systems.
